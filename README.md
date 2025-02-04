@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joseph Owadee
 
-Skills: Python / C++ / JS / HTML / CSS / SQL
+Skills: Python / SQL / C++ / JS / HTML / CSS
 
 - 🔭 I’m currently working on Haircut Scheduling App 
 - 🌱 I’m currently learning AWS 
